@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=corvusMidnight&color=brightgreen" alt="watching_count" /> <a href="https://www.linkedin.com/in/LeonardoGrotti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<img src="https://komarev.com/ghpvc/?username=corvusMidnight&color=brightgreen" alt="watching_count" /> <a href="[https://www.linkedin.com/in/LeonardoGrotti/](https://www.linkedin.com/in/leonardo-grotti-a8a64a205/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 
