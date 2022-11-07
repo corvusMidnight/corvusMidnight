@@ -12,4 +12,7 @@
 - 🎓 Previously graduated at: [La Sapienza University of Rome](https://corsidilaurea.uniroma1.it/it/corso/2021/29949/home), [Vrije Universiteit Amsterdam](https://vu.nl/en/education/master/humanities-research)
 - ✴️ Stackoverflow: [corvusMidnight](https://stackoverflow.com/users/17034564/corvusmidnight)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=corvusMidnight&theme=tokyonight" alt="mystreak"/>
+
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=corvusMidnight&theme=react-dark&hide_border=true&area=true)
