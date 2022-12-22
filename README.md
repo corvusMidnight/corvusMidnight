@@ -39,5 +39,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=corvusMidnight&theme=tokyonight" alt="mystreak"/>
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=corvusMidnight&theme=react-dark&hide_border=true&area=true)
 
-![Snake animation](![Snake animation](corvusMidnight)
+![Snake animation](![Snake animation](https://github.com/eagrundy/corvusMidnight/blob/output/github-contribution-grid-snake.svg)
 )
