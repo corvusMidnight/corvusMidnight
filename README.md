@@ -14,5 +14,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=corvusMidnight&theme=tokyonight" alt="mystreak"/>
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=corvusMidnight&show_icons=true&theme=merko)
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=corvusMidnight&show_icons=true&theme=tokyonight)
+
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=corvusMidnight&theme=react-dark&hide_border=true&area=true)
