@@ -40,4 +40,3 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=corvusMidnight&theme=react-dark&hide_border=true&area=true)
 
 ![Snake animation](![Snake animation](https://github.com/eagrundy/corvusMidnight/blob/output/github-contribution-grid-snake.svg)
-)
