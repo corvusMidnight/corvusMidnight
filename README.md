@@ -40,7 +40,7 @@
  
 ## 💻 Open Source Work Stats
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=corvusMidnight&show_icons=true&theme=tokyonight)
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=corvusMidnight&show_icons=true&theme=read)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=corvusMidnight&theme=tokyonight" alt="mystreak"/>
 
