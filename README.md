@@ -36,6 +36,7 @@
 ## 📚 Publications 
 
 - 📖 **[Good Omens: A Collaborative Authorship Study](https://ceur-ws.org/Vol-3290/)**. 
+- 📖 **[Framing in Interaction: Expert Witnesses' Testimony in the Italian Judicial System](https://riviste.fupress.net/index.php/nuovagiuridica/index)**. 
 
  
 ## 💻 Open Source Work Stats
