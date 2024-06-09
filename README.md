@@ -36,7 +36,7 @@
 
 - 📖 **[Good Omens: A Collaborative Authorship Study](https://ceur-ws.org/Vol-3290/)**. 
 - 📖 **[Framing in Interaction: Expert Witnesses' Testimony in the Italian Judicial System](https://riviste.fupress.net/index.php/nuovagiuridica/index)**. 
-
+- 📖 **[BERTicelli at HaSpeeDe 3: Fine-tuning and Cross-validating Large Language Models for Hate Speech Detection](https://ceur-ws.org/Vol-3473/paper25.pdf)
  
 ## 💻 Open Source Work Stats
 
