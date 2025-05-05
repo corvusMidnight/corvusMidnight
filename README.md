@@ -17,4 +17,4 @@
 - 📖 **[BERTicelli at HaSpeeDe 3: Fine-tuning and Cross-validating Large Language Models for Hate Speech Detection](https://ceur-ws.org/Vol-3473/paper25.pdf)**
 - 📖 **[Italian Linguistic Features for Toxic Language Detection in Social Media](https://www.researchgate.net/publication/382744644_Italian_Linguistic_Features_for_Toxic_Language_Detection_in_Social_Media)**
 
-![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corvusMidnight&theme=github)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=leo_gr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
